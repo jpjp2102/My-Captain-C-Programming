@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main ()
+void main ()
 {
     int choice;
     printf("Pick an item:\n1.Pizza\n2.Burger\n3.Pasta\n4.French Fries\n5.Sandwich\n");
